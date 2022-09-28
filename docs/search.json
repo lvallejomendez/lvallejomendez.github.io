@@ -9,8 +9,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "luis_website",
+    "title": "Luis Vallejo Méndez",
     "section": "",
     "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Personal projects"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "CV/Resume",
+    "section": "",
+    "text": "I have a CV!"
   }
 ]

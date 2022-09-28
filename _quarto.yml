@@ -3,15 +3,38 @@ project:
   output-dir: docs
 
 website:
-  title: "luis_website"
+  title: "Luis Vallejo Méndez"
+  site-url: https://lvallejomendez.github.io/
+  description: "data science, machine learning and technology"
+  reader-mode: true
+  
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - projects.qmd
+      - text: More
+        menu:
+          - resume.qmd
+    right:
+      - icon: linkedin
+        href: https://es.linkedin.com/in/luisvallejomendez
+      - icon: github 
+        href: https://github.com/lvallejomendez            
+  
+  page-footer: 
+    left: "Copyright 2022, Luis Vallejo Méndez" 
+    right: 
+      - icon: linkedin
+        href: https://es.linkedin.com/in/luisvallejomendez
+      - icon: github 
+        href: https://github.com/lvallejomendez
+      - icon: award-fill
+        href: https://www.credly.com/users/luis-vallejo/badges?sort=-state_updated_at&page=1
+    #background: light
 
 format:
   html:
-    theme: cosmo
+    theme: slate
     css: styles.css
     toc: true
