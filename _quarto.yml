@@ -26,7 +26,7 @@ website:
     left: "Copyright 2022, Luis Vallejo Méndez"
     center:
       - href: index.qmd
-        text: LVM
+        text: DS, ML & Tech
     right: 
       - icon: linkedin
         href: https://es.linkedin.com/in/luisvallejomendez
