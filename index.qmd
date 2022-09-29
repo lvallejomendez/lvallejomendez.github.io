@@ -2,6 +2,4 @@
 title: "Luis Vallejo Méndez"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This site is under construction...
