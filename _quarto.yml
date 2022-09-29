@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Luis Vallejo Méndez"
+  title: "LVM"
   site-url: https://lvallejomendez.github.io/
   description: "data science, machine learning and technology"
   reader-mode: true
@@ -20,10 +20,13 @@ website:
       - icon: linkedin
         href: https://es.linkedin.com/in/luisvallejomendez
       - icon: github 
-        href: https://github.com/lvallejomendez            
+        href: "https://github.com/lvallejomendez"
   
   page-footer: 
-    left: "Copyright 2022, Luis Vallejo Méndez" 
+    left: "Copyright 2022, Luis Vallejo Méndez"
+    center:
+      - href: index.qmd
+        text: LVM
     right: 
       - icon: linkedin
         href: https://es.linkedin.com/in/luisvallejomendez
@@ -31,7 +34,6 @@ website:
         href: https://github.com/lvallejomendez
       - icon: award-fill
         href: https://www.credly.com/users/luis-vallejo/badges?sort=-state_updated_at&page=1
-    #background: light
 
 format:
   html:
