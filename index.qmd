@@ -4,7 +4,7 @@ image: images\profile.jpg
 about:
   template: jolla
   image-width: 20em
-  image-shape: rounded
+  image-shape: rectangle
   #links:
 ---
 
