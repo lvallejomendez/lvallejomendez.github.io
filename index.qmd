@@ -1,6 +1,6 @@
 ---
 title: "Luis Vallejo Méndez"
-image: profile.jpg
+image: images\profile.jpg
 about:
   template: jolla
   image-width: 20em
