@@ -10,8 +10,8 @@ website:
   
   navbar:
     left:
-      - href: index.qmd
-        text: Home
+      - href: about.qmd
+        text: About
       - projects.qmd
       - text: More
         menu:
@@ -23,10 +23,10 @@ website:
         href: "https://github.com/lvallejomendez"
   
   page-footer: 
-    left: "Copyright 2022, Luis Vallejo Méndez"
+    left: "Hello from Madrid"
     center:
       - href: index.qmd
-        text: DS, ML & Tech
+        text: Data Science, ML & Tech
     right: 
       - icon: linkedin
         href: https://es.linkedin.com/in/luisvallejomendez
@@ -37,6 +37,6 @@ website:
 
 format:
   html:
-    theme: slate
+    theme: lux
     css: styles.css
     toc: true

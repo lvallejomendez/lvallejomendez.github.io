@@ -1,5 +1,19 @@
 ---
 title: "Luis Vallejo Méndez"
+image: profile.jpg
+about:
+  template: jolla
+  image-width: 20em
+  image-shape: rounded
+  #links:
 ---
 
-This site is under construction...
+Reinventing myself around data
+
+.
+.
+.
+.
+.
+
+*This site is under construction...*

@@ -2,22 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://lvallejomendez.github.io/about.html</loc>
-    <lastmod>2022-09-29T12:55:36.418Z</lastmod>
+    <lastmod>2022-09-30T00:29:56.206Z</lastmod>
   </url>
   <url>
     <loc>https://lvallejomendez.github.io/contact.html</loc>
-    <lastmod>2022-09-29T12:55:36.801Z</lastmod>
+    <lastmod>2022-09-30T00:29:56.626Z</lastmod>
   </url>
   <url>
     <loc>https://lvallejomendez.github.io/index.html</loc>
-    <lastmod>2022-09-29T12:55:37.238Z</lastmod>
+    <lastmod>2022-09-30T21:49:47.589Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lvallejomendez.github.io/projects/jupyter-labs-eda-dataviz.html</loc>
+    <lastmod>2022-09-30T00:29:57.731Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lvallejomendez.github.io/projects/lab_jupyter_launch_site_location.html</loc>
+    <lastmod>2022-09-30T00:29:58.487Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lvallejomendez.github.io/projects/SpaceX_Machine Learning Prediction_Part_5.html</loc>
+    <lastmod>2022-09-30T00:29:59.100Z</lastmod>
   </url>
   <url>
     <loc>https://lvallejomendez.github.io/projects.html</loc>
-    <lastmod>2022-09-29T12:55:37.610Z</lastmod>
+    <lastmod>2022-09-30T21:09:13.553Z</lastmod>
   </url>
   <url>
     <loc>https://lvallejomendez.github.io/resume.html</loc>
-    <lastmod>2022-09-29T12:55:37.991Z</lastmod>
+    <lastmod>2022-09-30T00:29:59.815Z</lastmod>
   </url>
 </urlset>
