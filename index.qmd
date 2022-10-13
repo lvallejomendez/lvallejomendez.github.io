@@ -8,7 +8,9 @@ about:
   #links:
 ---
 
-Reinventing myself around data
+Welcome, this is a place to show you how
+\
+I am reinventing myself by thinking about data.
 
 .
 .
@@ -16,4 +18,4 @@ Reinventing myself around data
 .
 .
 
-*This site is under construction...*
+*This site is constantly updated...*

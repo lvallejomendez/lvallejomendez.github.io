@@ -9,6 +9,7 @@ website:
   reader-mode: true
   
   navbar:
+    background: light
     left:
       - about.qmd
       - projects.qmd
@@ -22,7 +23,7 @@ website:
         href: "https://github.com/lvallejomendez"
   
   page-footer: 
-    left: "Hello from Madrid"
+    left: "Hola from Madrid"
     center:
       - href: index.qmd
         text: Data Science, ML & Tech
