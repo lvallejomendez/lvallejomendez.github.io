@@ -18,4 +18,10 @@ I am reinventing myself by thinking about data.
 .
 .
 
+I am a Data Professional changing my career to the Data Science field after 14 years in the AEC* industry.
+Currently, I am enrolled in the [Applied Data Science Degree](https://estudios.uoc.edu/es/grados/data-science/presentacion) at [UOC University](https://www.uoc.edu/portal/es/index.html), I have a diversity of interests, from Machine Learning, Advanced Analytics, Cloud Computing, DevOps to Sustainability, Circular Economy, Sports, and Cooking.
+
+\
+*AEC, Architecture, Enginnering and Construction.*
+
 *This site is constantly updated...*
