@@ -7,23 +7,21 @@ about:
   image-shape: rectangle
   #links:
 ---
-::: {.column-page}
+::: {#hero-heading}
 
 Welcome! This is a place to show you how
 \
 I am reinventing myself by thinking about data.
 
-.
-.
-.
-.
-.
+\
 
 I am a Data Professional changing my career to the Data Science field after 14 years working in the AEC* industry.
 Currently, I am enrolled in the [Applied Data Science Degree](https://estudios.uoc.edu/es/grados/data-science/presentacion) at [UOC University](https://www.uoc.edu/portal/es/index.html), I have a diversity of interests, from Machine Learning, Advanced Analytics, Cloud Computing, and DevOps, to Architecture, Sustainability, Circular Economy, Sports, and Cooking.
 
 \
+
 *AEC, Architecture, Enginnering and Construction.*
+
 \
 
 ## Experience
@@ -39,14 +37,15 @@ Francam (Flulle) | MEP & Architecture Technician | 2011 - 2016
 ## Education
 
 UOC, Open University of Catalonia | Spain(Online)
+\
 B.S in Data Science | 2019 - Present
 
 EOI, Business School | Madrid
+\
 Executive Programme in Big Data & Business Analytics | 2019
 
 CICE, Escuela Profesional de Nuevas Tecnologías | Madrid
+\
 Master Programme in BIM Management | 2015 - 2016
-
-More about on [LinkedIn profile](https://es.linkedin.com/in/luisvallejomendez).
 
 :::
