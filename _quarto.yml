@@ -11,8 +11,7 @@ website:
   navbar:
     background: light
     left:
-      - about.qmd
-      - projects.qmd
+      - posts.qmd
       - text: More
         menu:
           - resume.qmd
@@ -23,10 +22,7 @@ website:
         href: "https://github.com/lvallejomendez"
   
   page-footer: 
-    left: "Hola from Madrid"
-    center:
-      - href: index.qmd
-        text: Data Science, ML & Tech
+    left: © 2022 Luis Vallejo. Made with ❤️ and [Quarto](https://quarto.org/)
     right: 
       - icon: linkedin
         href: https://es.linkedin.com/in/luisvallejomendez

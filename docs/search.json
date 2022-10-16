@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": ". . . . .\nThis site is constantly updated…"
   },
   {
     "objectID": "index.html",
@@ -229,5 +229,12 @@
     "title": "CV/Resume",
     "section": "",
     "text": "I have a CV!"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Posts",
+    "section": "",
+    "text": "No matching items"
   }
 ]

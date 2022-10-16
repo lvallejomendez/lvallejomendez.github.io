@@ -1,6 +1,0 @@
----
-title: "About"
-type: default
----
-
-About this site

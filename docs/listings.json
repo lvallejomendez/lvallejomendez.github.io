@@ -2,5 +2,13 @@
   {
     "listing": "/projects.html",
     "items": []
+  },
+  {
+    "listing": "/index.html",
+    "items": []
+  },
+  {
+    "listing": "/posts.html",
+    "items": []
   }
 ]
