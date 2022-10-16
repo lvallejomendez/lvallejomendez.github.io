@@ -1,24 +1,18 @@
 ---
 title: "Luis Vallejo Méndez"
 image: images\profile.jpg
+comments: false
 about:
   template: jolla
   image-width: 20em
   image-shape: rectangle
-  #links:
+  id: hero-heading
 ---
 ::: {#hero-heading}
-
-Welcome! This is a place to show you how
-\
-I am reinventing myself by thinking about data.
-
-\
+Welcome! This is a place to show how I am reinventing myself by learning about data.
 
 I am a Data Professional changing my career to the Data Science field after 14 years working in the AEC* industry.
 Currently, I am enrolled in the [Applied Data Science Degree](https://estudios.uoc.edu/es/grados/data-science/presentacion) at [UOC University](https://www.uoc.edu/portal/es/index.html), I have a diversity of interests, from Machine Learning, Advanced Analytics, Cloud Computing, and DevOps, to Architecture, Sustainability, Circular Economy, Sports, and Cooking.
-
-\
 
 *AEC, Architecture, Enginnering and Construction.*
 
