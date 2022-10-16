@@ -8,7 +8,11 @@ about:
   image-shape: rectangle
   id: hero-heading
 ---
+
 ::: {#hero-heading}
+
+\
+
 Welcome! This is a place to show how I am reinventing myself by learning about data.
 
 I am a Data Professional changing my career to the Data Science field after 14 years working in the AEC* industry.
@@ -30,16 +34,24 @@ Francam (Flulle) | MEP & Architecture Technician | 2011 - 2016
 
 ## Education
 
-UOC, Open University of Catalonia | Spain(Online)
+UOC, Open University of Catalonia | Online - Spain
 \
 B.S in Data Science | 2019 - Present
 
-EOI, Business School | Madrid
+EOI, Business School | Madrid - Spain
 \
 Executive Programme in Big Data & Business Analytics | 2019
 
-CICE, Escuela Profesional de Nuevas Tecnologías | Madrid
+CICE, Escuela Profesional de Nuevas Tecnologías | Madrid - Spain
 \
 Master Programme in BIM Management | 2015 - 2016
+
+IES Palomeras Vallecas | Madrid - Spain
+\
+Higher Technical Certificate in Building and Civil Works | 2003 - 2005
+
+## Volunteer
+
+DeepLearning.AI (Coursera) | Mentor & Alpha Tester | 2021
 
 :::
