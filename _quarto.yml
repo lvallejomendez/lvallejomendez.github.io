@@ -18,6 +18,7 @@ website:
                 agent-id="5c1a62a6-0c70-46b4-b991-13b375bf2904"
                 language-code="en"
               </df-messenger>
+              <meta name="viewport" content="width-device-width, initial-scale=1">
 
     left:
       - posts.qmd
