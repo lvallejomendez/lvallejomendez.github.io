@@ -17,7 +17,7 @@ website:
                 chat-title="lvm-test1"
                 agent-id="5c1a62a6-0c70-46b4-b991-13b375bf2904"
                 language-code="en"
-              ></df-messenger>
+              </df-messenger>
 
     left:
       - posts.qmd
