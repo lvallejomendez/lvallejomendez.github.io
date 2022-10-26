@@ -21,16 +21,6 @@ website:
       - icon: github 
         href: "https://github.com/lvallejomendez"
         
-  body-footer: 
-      - context: 
-        <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
-        <df-messenger
-          intent="WELCOME"
-          chat-title="lvm-test1"
-          agent-id="5c1a62a6-0c70-46b4-b991-13b375bf2904"
-          language-code="en"
-        </df-messenger>
-
   page-footer: 
     left: © 2022 Luis Vallejo. Made with ❤️ and [Quarto](https://quarto.org/)
     right: 
