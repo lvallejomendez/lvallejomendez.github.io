@@ -10,7 +10,7 @@ about:
 ---
 ::: {#hero-heading}
 
-I am Luis Vallejo Méndez, after 14 years working in the AEC* industry, I decide to change my career to Data Science.
+After 14 years working in the AEC* industry, I decide to change my career to Data Science.
 
 Currently, I am enrolled in the [Applied Data Science Degree](https://estudios.uoc.edu/es/grados/data-science/presentacion) at [UOC University](https://www.uoc.edu/portal/es/index.html), I have a diversity of interests, from Machine Learning, Advanced Analytics, Cloud Computing, and DevOps, to Architecture, Sustainability, Circular Economy, Sports, and Cooking.
 
