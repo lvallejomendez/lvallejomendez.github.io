@@ -28,11 +28,13 @@ Freelance | BIM Specialist | 2022
 
 OHLA Group | BIM Specialist | 2016 - 2019
 
-CICE, La Escuela Profesional de Nuevas Tecnologías | Assistant Trainer | 2017
+CICE, La Escuela Profesional de Nuevas Tecnologías | BIM Trainer | 2017
 
 Francam (Flulle) | MEP & Architecture Technician | 2011 - 2016
 
-## Education
+Other Experiences | Drafter, CAD Trainer | 2005 - 2011
+
+### Education
 
 UOC, Open University of Catalonia | Online - Spain
 \
@@ -50,7 +52,7 @@ IES Palomeras Vallecas | Madrid - Spain
 \
 Higher Technical Certificate in Building and Civil Works | 2003 - 2005
 
-## Volunteer
+### Volunteer
 
 DeepLearning.AI (Coursera) | Mentor & Alpha Tester | 2021
 
