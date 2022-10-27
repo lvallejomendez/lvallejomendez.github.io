@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Me"
 image: images\profile.jpg
 comments: false
 about:
@@ -28,6 +28,8 @@ CICE, La Escuela Profesional de Nuevas Tecnologías | BIM Trainer | 2017
 
 Other Experiences | MEP & Architecture Technician, Drafter | 2005 - 2016
 
+\
+
 ### Education
 
 UOC, Open University of Catalonia | Online - Spain
@@ -45,6 +47,8 @@ Master Programme in BIM Management | 2015 - 2016
 IES Palomeras Vallecas | Madrid - Spain
 \
 Higher Technical Certificate in Building and Civil Works | 2003 - 2005
+
+\
 
 ### Volunteer
 
