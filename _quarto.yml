@@ -10,12 +10,9 @@ website:
   
   navbar:
     background: light
-    left:
-      - posts.qmd
-      - text: More
-        menu:
-          - resume.qmd
     right:
+      - projects.qmd
+      - about.qmd
       - icon: linkedin
         href: https://es.linkedin.com/in/luisvallejomendez
       - icon: github 
