@@ -5,7 +5,6 @@ project:
 website:
   title: "LVM"
   site-url: https://lvallejomendez.github.io/
-  description: "data science, machine learning and technology"
   reader-mode: true
   
   navbar:
