@@ -1,5 +1,5 @@
 ---
-title: "Data Science, Machine Learning & Cloud"
+title: "Welcome!"
 
 ---
-Welcome! In this place I will show how I am reinventing myself by learning about data.
+In this place I will show how, I am reinventing myself by learning about Data Science, Machine Learning & Cloud.
