@@ -7,4 +7,4 @@ listing:
   categories: true
 ---
 
-Personal projects
+Personal project
