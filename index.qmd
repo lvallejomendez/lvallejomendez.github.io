@@ -22,7 +22,7 @@ Currently, I am enrolled in the [Applied Data Science Degree](https://estudios.u
 
 \
 
-# Experience
+### Experience
 
 Freelance | BIM Specialist | 2022
 
@@ -34,7 +34,7 @@ Francam (Flulle) | MEP & Architecture Technician | 2011 - 2016
 
 Other Experiences | Drafter, CAD Trainer | 2005 - 2011
 
-# Education
+### Education
 
 UOC, Open University of Catalonia | Online - Spain
 \
@@ -52,7 +52,7 @@ IES Palomeras Vallecas | Madrid - Spain
 \
 Higher Technical Certificate in Building and Civil Works | 2003 - 2005
 
-# Volunteer
+### Volunteer
 
 DeepLearning.AI (Coursera) | Mentor & Alpha Tester | 2021
 
