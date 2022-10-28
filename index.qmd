@@ -1,6 +1,6 @@
 ---
-pagetitle: Luis Vallejo Méndez
-toc: false
+pagetitle: "Luis Vallejo Méndez"
+
 ---
 
 I am Luis Vallejo Méndez, in this site I will show how I am reinventing myself by learning about Data Science, Machine Learning & Cloud.

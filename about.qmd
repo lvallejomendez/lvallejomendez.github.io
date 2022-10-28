@@ -1,4 +1,5 @@
 ---
+title: "About Me"
 pagetitle: "About Me"
 image: images\profile.jpg
 comments: false

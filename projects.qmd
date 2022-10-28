@@ -1,4 +1,5 @@
 ---
+title: "Projects"
 pagetitle: "Projects"
 listing:
   contents: posts
