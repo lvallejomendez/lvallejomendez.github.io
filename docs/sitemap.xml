@@ -2,14 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://lvallejomendez.github.io/about.html</loc>
-    <lastmod>2022-10-28T00:17:47.487Z</lastmod>
+    <lastmod>2022-10-29T10:14:14.114Z</lastmod>
   </url>
   <url>
     <loc>https://lvallejomendez.github.io/index.html</loc>
-    <lastmod>2022-10-28T00:17:47.913Z</lastmod>
+    <lastmod>2022-10-29T10:14:15.150Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lvallejomendez.github.io/posts/2022-10-29-welcome/index.html</loc>
+    <lastmod>2022-10-29T10:14:16.014Z</lastmod>
   </url>
   <url>
     <loc>https://lvallejomendez.github.io/projects.html</loc>
-    <lastmod>2022-10-28T00:17:48.356Z</lastmod>
+    <lastmod>2022-10-29T10:14:16.662Z</lastmod>
   </url>
 </urlset>

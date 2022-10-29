@@ -1,13 +1,13 @@
 ---
+title: LVM Blog
+subtitle: Hi! I am Luis Vallejo Méndez, I am reinventing myself by learning about Data Science, Machine Learning & Cloud.
 pagetitle: "Luis Vallejo Méndez"
 listing:
   contents: posts
   sort: "date desc"
   type: default
   categories: true
+page-layout: full
+title-block-banner: "#EDF3F9"
+title-block-banner-color: body
 ---
-
-I am Luis Vallejo Méndez, in this site I will show how I am reinventing myself by learning about Data Science, Machine Learning & Cloud.
-
-
-### Posts
