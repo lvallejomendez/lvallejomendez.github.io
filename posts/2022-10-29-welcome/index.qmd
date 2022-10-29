@@ -6,8 +6,8 @@ listing:
   type: default
   categories: true
 author: Luis Vallejo
-date: 29/10/2022
+date: "10/29/2022"
 ---
 This is the first post in my blog, I am continuously improving it. 
 
-This blog is made with [Quarto](https://quarto.org/), a great and open-source scientific and technical publishing system.
+This blog is made with [Quarto](https://quarto.org/), a great and open-source scientific and technical publishing system, and hosted by [GitHub Pages](https://pages.github.com/.)
