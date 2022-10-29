@@ -1,13 +1,11 @@
 ---
 title: Welcome
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
+categories:
+  - Quarto
+  - GitHub Pages
 author: Luis Vallejo
 date: "10/29/2022"
 ---
 This is the first post in my blog, I am continuously improving it. 
 
-This blog is made with [Quarto](https://quarto.org/), a great and open-source scientific and technical publishing system, and hosted by [GitHub Pages](https://pages.github.com/.)
+This blog is made with [Quarto](https://quarto.org/), a great and open-source scientific and technical publishing system, and hosted by [GitHub Pages.](https://pages.github.com/.)
