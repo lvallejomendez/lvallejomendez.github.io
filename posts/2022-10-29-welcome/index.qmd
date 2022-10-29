@@ -8,4 +8,6 @@ listing:
 author: Luis Vallejo
 date: 29/10/2022
 ---
-This is the first post in my blog, I am continuously improving it. This blog is made with Quarto, a great and open-source scientific and technical publishing system.
+This is the first post in my blog, I am continuously improving it. 
+
+This blog is made with [Quarto](https://quarto.org/), a great and open-source scientific and technical publishing system.
