@@ -25,6 +25,76 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Data Science\n\n\n\n\n\n\n\n\n\n\nNov 1, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Data Science\n\n\nCoursera\n\n\nIBM\n\n\nCapstone Project\n\n\n\n\n\n\n\n\n\n\nNov 1, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/dsproject_space_race.html",
+    "href": "projects/dsproject_space_race.html",
+    "title": "Winning Space Race with Data Science",
+    "section": "",
+    "text": "In this capstone, we will predict if the Falcon 9 first stage will land successfully.\nSpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch."
+  },
+  {
+    "objectID": "projects/dsproject_space_race.html#executive-summary",
+    "href": "projects/dsproject_space_race.html#executive-summary",
+    "title": "Winning Space Race with Data Science",
+    "section": "Executive Summary",
+    "text": "Executive Summary"
+  },
+  {
+    "objectID": "projects/dsproject_space_race.html#introduction",
+    "href": "projects/dsproject_space_race.html#introduction",
+    "title": "Winning Space Race with Data Science",
+    "section": "Introduction",
+    "text": "Introduction"
+  },
+  {
+    "objectID": "projects/dsproject_space_race.html#methodology",
+    "href": "projects/dsproject_space_race.html#methodology",
+    "title": "Winning Space Race with Data Science",
+    "section": "Methodology",
+    "text": "Methodology\n   \nData collection API notebook"
+  },
+  {
+    "objectID": "projects/dsproject_space_race.html#insights-drawn-from-eda",
+    "href": "projects/dsproject_space_race.html#insights-drawn-from-eda",
+    "title": "Winning Space Race with Data Science",
+    "section": "Insights Drawn from EDA",
+    "text": "Insights Drawn from EDA"
+  },
+  {
+    "objectID": "projects/dsproject_space_race.html#launch-sites-proximities-analysis",
+    "href": "projects/dsproject_space_race.html#launch-sites-proximities-analysis",
+    "title": "Winning Space Race with Data Science",
+    "section": "Launch Sites Proximities Analysis",
+    "text": "Launch Sites Proximities Analysis"
+  },
+  {
+    "objectID": "projects/dsproject_space_race.html#build-a-dashboard-with-plotly-dash",
+    "href": "projects/dsproject_space_race.html#build-a-dashboard-with-plotly-dash",
+    "title": "Winning Space Race with Data Science",
+    "section": "Build a Dashboard with Plotly Dash",
+    "text": "Build a Dashboard with Plotly Dash"
+  },
+  {
+    "objectID": "projects/dsproject_space_race.html#predictive-analysis-classification",
+    "href": "projects/dsproject_space_race.html#predictive-analysis-classification",
+    "title": "Winning Space Race with Data Science",
+    "section": "Predictive Analysis (Classification)",
+    "text": "Predictive Analysis (Classification)"
+  },
+  {
+    "objectID": "projects/dsproject_space_race.html#conclusions",
+    "href": "projects/dsproject_space_race.html#conclusions",
+    "title": "Winning Space Race with Data Science",
+    "section": "Conclusions",
+    "text": "Conclusions"
+  },
+  {
+    "objectID": "projects/dsproject_space_race.html#appendix",
+    "href": "projects/dsproject_space_race.html#appendix",
+    "title": "Winning Space Race with Data Science",
+    "section": "Appendix",
+    "text": "Appendix\nFor notebooks, datasets and scripts, follow this GitHub repository link: Applied Data Science Capstone"
   }
 ]

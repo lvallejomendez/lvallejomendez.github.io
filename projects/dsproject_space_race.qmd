@@ -3,20 +3,36 @@ title: "Winning Space Race with Data Science"
 format: html
 categories:
   - Data Science
+  - Coursera
+  - IBM
+  - Capstone Project
 date: "11/01/2022"
 image: "dsproject_space_race/Slide1.PNG"
 image-alt: "Winning Space Race with Data Science"
 ---
 
+In this capstone, we will predict if the Falcon 9 first stage will land successfully. 
+
+[SpaceX](https://www.spacex.com/) advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch.
+
 :::{.column-page}
 ![](dsproject_space_race/Slide1.PNG)
 ![](dsproject_space_race/Slide2.PNG)
+
+## Executive Summary
 ![](dsproject_space_race/Slide3.PNG)
+
+## Introduction
 ![](dsproject_space_race/Slide4.PNG)
+
+## Methodology
 ![](dsproject_space_race/Slide5.PNG)
 ![](dsproject_space_race/Slide6.PNG)
 ![](dsproject_space_race/Slide7.PNG)
 ![](dsproject_space_race/Slide8.PNG)
+
+[Data collection API notebook](https://github.com/lvallejomendez/IBM-DS-AI-DE-on-Coursera-repo/blob/main/Applied%20Data%20Science%20Capstone/notebooks/jupyter-labs-spacex-data-collection-api.ipynb)
+
 ![](dsproject_space_race/Slide9.PNG)
 ![](dsproject_space_race/Slide10.PNG)
 ![](dsproject_space_race/Slide11.PNG)
@@ -29,6 +45,8 @@ image-alt: "Winning Space Race with Data Science"
 ![](dsproject_space_race/Slide18.PNG)
 ![](dsproject_space_race/Slide19.PNG)
 ![](dsproject_space_race/Slide20.PNG)
+
+## Insights Drawn from EDA
 ![](dsproject_space_race/Slide21.PNG)
 ![](dsproject_space_race/Slide22.PNG)
 ![](dsproject_space_race/Slide23.PNG)
@@ -46,19 +64,32 @@ image-alt: "Winning Space Race with Data Science"
 ![](dsproject_space_race/Slide35.PNG)
 ![](dsproject_space_race/Slide36.PNG)
 ![](dsproject_space_race/Slide37.PNG)
+
+## Launch Sites Proximities Analysis
 ![](dsproject_space_race/Slide38.PNG)
 ![](dsproject_space_race/Slide39.PNG)
 ![](dsproject_space_race/Slide40.PNG)
 ![](dsproject_space_race/Slide41.PNG)
+
+## Build a Dashboard with Plotly Dash
 ![](dsproject_space_race/Slide42.PNG)
 ![](dsproject_space_race/Slide43.PNG)
 ![](dsproject_space_race/Slide44.PNG)
 ![](dsproject_space_race/Slide45.PNG)
 ![](dsproject_space_race/Slide46.PNG)
+
+## Predictive Analysis (Classification)
 ![](dsproject_space_race/Slide47.PNG)
 ![](dsproject_space_race/Slide48.PNG)
 ![](dsproject_space_race/Slide49.PNG)
+
+## Conclusions
 ![](dsproject_space_race/Slide50.PNG)
+
+## Appendix
+For notebooks, datasets and scripts, follow this GitHub repository link: 
+[Applied Data Science Capstone](https://github.com/lvallejomendez/coursera-ibm_data_science/tree/main/Applied%20Data%20Science%20Capstone)
+
 ![](dsproject_space_race/Slide51.PNG)
 ![](dsproject_space_race/Slide52.PNG)
 :::
