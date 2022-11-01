@@ -5,5 +5,6 @@ categories:
   - Data Science
 date: "11/01/2022"
 image: "dsproject_space_race/Slide1.PNG"
+image-alt: "Winning Space Race with Data Science"
 ---
 
