@@ -34,16 +34,37 @@ In this capstone, we will predict if the Falcon 9 first stage will land successf
 [Data collection API notebook](https://github.com/lvallejomendez/IBM-DS-AI-DE-on-Coursera-repo/blob/main/Applied%20Data%20Science%20Capstone/notebooks/jupyter-labs-spacex-data-collection-api.ipynb)
 
 ![](dsproject_space_race/Slide9.PNG)
+
+[Web scraping notebook](https://github.com/lvallejomendez/IBM-DS-AI-DE-on-Coursera-repo/blob/main/Applied%20Data%20Science%20Capstone/notebooks/jupyter-labs-webscraping.ipynb)
+
 ![](dsproject_space_race/Slide10.PNG)
+
+[Data wrangling notebook](https://github.com/lvallejomendez/IBM-DS-AI-DE-on-Coursera-repo/blob/main/Applied%20Data%20Science%20Capstone/notebooks/labs-jupyter-spacex-Data%20wrangling.ipynb)
+
 ![](dsproject_space_race/Slide11.PNG)
+
+[EDA with Visualization notebook](https://github.com/lvallejomendez/IBM-DS-AI-DE-on-Coursera-repo/blob/main/Applied%20Data%20Science%20Capstone/notebooks/jupyter-labs-eda-dataviz.ipynb)
+
 ![](dsproject_space_race/Slide12.PNG)
 ![](dsproject_space_race/Slide13.PNG)
 ![](dsproject_space_race/Slide14.PNG)
+
+[EDA with SQL notebook](https://github.com/lvallejomendez/IBM-DS-AI-DE-on-Coursera-repo/blob/main/Applied%20Data%20Science%20Capstone/notebooks/jupyter-labs-eda-sql-coursera.ipynb)
+
 ![](dsproject_space_race/Slide15.PNG)
+
+[Launch Sites Locations Analysis with Folium notebook](https://nbviewer.org/github/lvallejomendez/IBM-DS-AI-DE-on-Coursera-repo/blob/main/Applied%20Data%20Science%20Capstone/notebooks/lab_jupyter_launch_site_location.ipynb)
+
 ![](dsproject_space_race/Slide16.PNG)
 ![](dsproject_space_race/Slide17.PNG)
+
+[Interactive Dashboard with Ploty Dash](https://github.com/lvallejomendez/IBM-DS-AI-DE-on-Coursera-repo/blob/main/Applied%20Data%20Science%20Capstone/scripts/spacex_dash_app.py)
+
 ![](dsproject_space_race/Slide18.PNG)
 ![](dsproject_space_race/Slide19.PNG)
+
+[Machine Learning Prediction notebook](https://github.com/lvallejomendez/IBM-DS-AI-DE-on-Coursera-repo/blob/main/Applied%20Data%20Science%20Capstone/notebooks/SpaceX_Machine%20Learning%20Prediction_Part_5.ipynb)
+
 ![](dsproject_space_race/Slide20.PNG)
 
 ## Insights Drawn from EDA
@@ -87,9 +108,10 @@ In this capstone, we will predict if the Falcon 9 first stage will land successf
 ![](dsproject_space_race/Slide50.PNG)
 
 ## Appendix
+![](dsproject_space_race/Slide51.PNG)
+
 For notebooks, datasets and scripts, follow this GitHub repository link: 
 [Applied Data Science Capstone](https://github.com/lvallejomendez/coursera-ibm_data_science/tree/main/Applied%20Data%20Science%20Capstone)
 
-![](dsproject_space_race/Slide51.PNG)
 ![](dsproject_space_race/Slide52.PNG)
 :::
