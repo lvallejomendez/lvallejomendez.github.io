@@ -21,13 +21,6 @@
     "text": "This blog is made with Quarto, a great open-source, scientific and technical publishing system. This site is hosted by GitHub Pages."
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Data Science\n\n\nCoursera\n\n\nIBM\n\n\nCapstone Project\n\n\n\n\n\n\n\n\n\n\nNov 1, 2022\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "projects/dsproject_space_race.html",
     "href": "projects/dsproject_space_race.html",
     "title": "Winning Space Race with Data Science",
@@ -53,7 +46,7 @@
     "href": "projects/dsproject_space_race.html#methodology",
     "title": "Winning Space Race with Data Science",
     "section": "Methodology",
-    "text": "Methodology\n   \nData collection API notebook"
+    "text": "Methodology\n   \nData collection API notebook\n\nWeb scraping notebook\n\nData wrangling notebook\n\nEDA with Visualization notebook\n  \nEDA with SQL notebook\n\nLaunch Sites Locations Analysis with Folium notebook\n \nInteractive Dashboard with Ploty Dash\n \nMachine Learning Prediction notebook"
   },
   {
     "objectID": "projects/dsproject_space_race.html#insights-drawn-from-eda",
@@ -95,6 +88,13 @@
     "href": "projects/dsproject_space_race.html#appendix",
     "title": "Winning Space Race with Data Science",
     "section": "Appendix",
-    "text": "Appendix\nFor notebooks, datasets and scripts, follow this GitHub repository link: Applied Data Science Capstone"
+    "text": "Appendix\n\nFor notebooks, datasets and scripts, follow this GitHub repository link: Applied Data Science Capstone"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Data Science\n\n\nCoursera\n\n\nIBM\n\n\nCapstone Project\n\n\n\n\n\n\n\n\n\n\nNov 1, 2022\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
