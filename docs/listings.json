@@ -4,5 +4,11 @@
     "items": [
       "/posts/2022-10-29-welcome/index.html"
     ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/dsproject_space_race.html"
+    ]
   }
 ]

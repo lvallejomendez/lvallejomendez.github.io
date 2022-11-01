@@ -8,6 +8,6 @@ listing:
   type: default
   categories: true
 page-layout: full
-title-block-banner: "#EDF3F9"
+title-block-banner: "#FFF0DC"
 title-block-banner-color: body
 ---
