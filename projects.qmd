@@ -1,9 +1,7 @@
 ---
 title: "Projects"
 pagetitle: "Projects"
-format:
-  html:
-    toc: false
+
 listing:
   contents: projects
   sort: "date desc"
