@@ -1,6 +1,5 @@
 ---
 title: "Winning Space Race with Data Science"
-
 categories:
   - Data Science
   - Coursera
