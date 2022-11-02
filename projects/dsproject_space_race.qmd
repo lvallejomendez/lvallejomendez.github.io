@@ -13,11 +13,15 @@ image: "dsproject_space_race/Slide1.PNG"
 image-alt: "Winning Space Race with Data Science"
 ---
 
-In this capstone, we will predict if the Falcon 9 first stage will land successfully. 
+This is the presentation of the capstone project in the [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science). 
 
-[SpaceX](https://www.spacex.com/) advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch.
+Note that this presentation is much more detailed and technical than regular high-level and abstracted presentations for executive teams.
 
+I assume the role of a Data Scientist working for a startup intending to compete with [SpaceX](https://www.spacex.com/), and in the process follow the Data Science methodology involving data collection, data wrangling, exploratory data analysis, data visualization, model development, model evaluation, and reporting results to stakeholders.
 
+In this capstone, we will predict if the Falcon 9 first stage will land successfully, SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch.
+
+\
 
 :::{.column-page}
 ![](dsproject_space_race/Slide1.PNG)
