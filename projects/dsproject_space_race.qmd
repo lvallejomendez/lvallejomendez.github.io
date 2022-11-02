@@ -35,29 +35,29 @@ In this capstone, we will predict if the Falcon 9 first stage will land successf
 ![](dsproject_space_race/Slide7.PNG)
 ![](dsproject_space_race/Slide8.PNG)
 
-[Data collection API notebook](https://github.com/lvallejomendez/IBM-DS-AI-DE-on-Coursera-repo/blob/main/Applied%20Data%20Science%20Capstone/notebooks/jupyter-labs-spacex-data-collection-api.ipynb)
+[Data collection API notebook](/notebooks/dsproject_space_race/space_race-spacex-data-collection-api.ipynb)
 
 ![](dsproject_space_race/Slide9.PNG)
 
-[Web scraping notebook](https://github.com/lvallejomendez/IBM-DS-AI-DE-on-Coursera-repo/blob/main/Applied%20Data%20Science%20Capstone/notebooks/jupyter-labs-webscraping.ipynb)
+[Web scraping notebook](/notebooks/dsproject_space_race/space_race-webscraping.ipynb)
 
 ![](dsproject_space_race/Slide10.PNG)
 
-[Data wrangling notebook](https://github.com/lvallejomendez/IBM-DS-AI-DE-on-Coursera-repo/blob/main/Applied%20Data%20Science%20Capstone/notebooks/labs-jupyter-spacex-Data%20wrangling.ipynb)
+[Data wrangling notebook](/notebooks/dsproject_space_race/space_race-spacex-data-wrangling.ipynb)
 
 ![](dsproject_space_race/Slide11.PNG)
 
-[EDA with Visualization notebook](https://github.com/lvallejomendez/IBM-DS-AI-DE-on-Coursera-repo/blob/main/Applied%20Data%20Science%20Capstone/notebooks/jupyter-labs-eda-dataviz.ipynb)
+[EDA with Visualization notebook](/notebooks/dsproject_space_race/space_race-eda-dataviz.ipynb)
 
 ![](dsproject_space_race/Slide12.PNG)
 ![](dsproject_space_race/Slide13.PNG)
 ![](dsproject_space_race/Slide14.PNG)
 
-[EDA with SQL notebook](https://github.com/lvallejomendez/IBM-DS-AI-DE-on-Coursera-repo/blob/main/Applied%20Data%20Science%20Capstone/notebooks/jupyter-labs-eda-sql-coursera.ipynb)
+[EDA with SQL notebook](/notebooks/dsproject_space_race/space_race-eda-sql.ipynb)
 
 ![](dsproject_space_race/Slide15.PNG)
 
-[Launch Sites Locations Analysis with Folium notebook](https://nbviewer.org/github/lvallejomendez/IBM-DS-AI-DE-on-Coursera-repo/blob/main/Applied%20Data%20Science%20Capstone/notebooks/lab_jupyter_launch_site_location.ipynb)
+[Launch Sites Locations Analysis with Folium notebook](/notebooks/dsproject_space_race/space_race-launch-site-location.ipynb)
 
 ![](dsproject_space_race/Slide16.PNG)
 ![](dsproject_space_race/Slide17.PNG)
@@ -67,7 +67,7 @@ In this capstone, we will predict if the Falcon 9 first stage will land successf
 ![](dsproject_space_race/Slide18.PNG)
 ![](dsproject_space_race/Slide19.PNG)
 
-[Machine Learning Prediction notebook](https://github.com/lvallejomendez/IBM-DS-AI-DE-on-Coursera-repo/blob/main/Applied%20Data%20Science%20Capstone/notebooks/SpaceX_Machine%20Learning%20Prediction_Part_5.ipynb)
+[Machine Learning Prediction notebook](/notebooks/dsproject_space_race/space_race-spacex-ml-prediction.ipynb)
 
 ![](dsproject_space_race/Slide20.PNG)
 

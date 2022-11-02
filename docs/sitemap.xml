@@ -2,22 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://lvallejomendez.github.io/about.html</loc>
-    <lastmod>2022-11-02T00:14:49.284Z</lastmod>
+    <lastmod>2022-11-02T12:03:47.248Z</lastmod>
   </url>
   <url>
     <loc>https://lvallejomendez.github.io/index.html</loc>
-    <lastmod>2022-11-02T00:14:49.810Z</lastmod>
+    <lastmod>2022-11-02T12:03:47.793Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lvallejomendez.github.io/notebooks/dsproject_space_race/space_race-eda-dataviz.html</loc>
+    <lastmod>2022-11-02T12:03:48.517Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lvallejomendez.github.io/notebooks/dsproject_space_race/space_race-eda-sql.html</loc>
+    <lastmod>2022-11-02T12:03:49.099Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lvallejomendez.github.io/notebooks/dsproject_space_race/space_race-launch-site-location.html</loc>
+    <lastmod>2022-11-02T12:03:49.884Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lvallejomendez.github.io/notebooks/dsproject_space_race/space_race-spacex-data-collection-api.html</loc>
+    <lastmod>2022-11-02T12:03:50.657Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lvallejomendez.github.io/notebooks/dsproject_space_race/space_race-spacex-data-wrangling.html</loc>
+    <lastmod>2022-11-02T12:03:51.244Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lvallejomendez.github.io/notebooks/dsproject_space_race/space_race-spacex-ml-prediction.html</loc>
+    <lastmod>2022-11-02T12:03:51.850Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lvallejomendez.github.io/notebooks/dsproject_space_race/space_race-webscraping.html</loc>
+    <lastmod>2022-11-02T12:03:52.403Z</lastmod>
   </url>
   <url>
     <loc>https://lvallejomendez.github.io/posts/2022-10-29-welcome/index.html</loc>
-    <lastmod>2022-11-02T00:14:50.260Z</lastmod>
+    <lastmod>2022-11-02T12:03:52.756Z</lastmod>
   </url>
   <url>
     <loc>https://lvallejomendez.github.io/projects/dsproject_space_race.html</loc>
-    <lastmod>2022-11-02T00:14:50.702Z</lastmod>
+    <lastmod>2022-11-02T12:04:08.891Z</lastmod>
   </url>
   <url>
     <loc>https://lvallejomendez.github.io/projects.html</loc>
-    <lastmod>2022-11-02T00:14:51.108Z</lastmod>
+    <lastmod>2022-11-02T12:04:06.479Z</lastmod>
   </url>
 </urlset>
