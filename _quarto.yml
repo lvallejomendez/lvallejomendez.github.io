@@ -16,6 +16,8 @@ website:
         href: https://es.linkedin.com/in/luisvallejomendez
       - icon: github 
         href: "https://github.com/lvallejomendez"
+      - icon: award-fill
+        href: https://www.credly.com/users/luis-vallejo/badges?sort=-state_updated_at&page=1
         
   page-footer: 
     left: © 2022 Luis Vallejo. Made with ❤️ and [Quarto](https://quarto.org/)
