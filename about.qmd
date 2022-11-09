@@ -19,7 +19,7 @@ Currently, I am enrolled in the [Applied Data Science Degree](https://estudios.u
 
 \
 
-### Experience
+## Experience
 
 BIM Specialist | Freelance | 2022
 
@@ -31,79 +31,97 @@ MEP & Architecture Technician, Drafter | Past Experiences | 2005 - 2016
 
 \
 
-### Education
+## Education
 
-UOC, Open University of Catalonia | Online - Spain
-\
-B.S in Data Science | 2019 - Present
+EOI, Business School | Madrid | 2019 \
+Executive Programme in Big Data & Business Analytics
 
-EOI, Business School | Madrid - Spain
-\
-Executive Programme in Big Data & Business Analytics | 2019
+UOC, Open University of Catalonia | Online | 2019 - Present \
+B.S in Data Science
 
-CICE, Escuela Profesional de Nuevas Tecnologías | Madrid - Spain
-\
-Master Programme in BIM Management | 2015 - 2016
+CICE, Escuela Profesional de Nuevas Tecnologías | Madrid | 2015 - 2016 \
+Master Programme in BIM, Building Information Modelling.
 
-IES Palomeras Vallecas | Madrid - Spain
-\
-Higher Technical Certificate in Building and Civil Works | 2003 - 2005
+IES Palomeras Vallecas | Madrid | 2003 - 2005 \
+Higher Technical Certificate in Building and Civil Works
 
 \
-
-### Accomplishments
 
 #### Specializations
+\
+IBM | Coursera | 2022 \
+[IBM Data Science | 10 Courses Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/NF5R8W5J9MDE)
 
-IBM | [IBM Data Science | 10 Courses Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/NF5R8W5J9MDE) | Coursera | 2022
+Google Cloud | Coursera | 2022 \
+[From Data to Insights with Google Cloud | 3 Courses Specialization](https://www.coursera.org/account/accomplishments/specialization/GPMLSXD4W447)
 
-Google Cloud | [From Data to Insights with Google Cloud | 3 Courses Specialization](https://www.coursera.org/account/accomplishments/specialization/GPMLSXD4W447) | Coursera | 2022
+IBM | Coursera | 2022 \
+[Data Analysis & Visualization Foundations | 4 Courses Specialization](https://www.coursera.org/account/accomplishments/specialization/RL4JE3Q38T8G)
 
-IBM | [Data Analysis & Visualization Foundations | 4 Courses Specialization](https://www.coursera.org/account/accomplishments/specialization/RL4JE3Q38T8G) | Coursera | 2022
+IBM | Coursera | 2022 \
+[IBM Data Analyst | 9 Courses Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst)
 
-IBM | [IBM Data Analyst | 9 Courses Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst) | Coursera | 2022
+DeepLearning.AI, AWS | Coursera | 2021 \
+[Practical Data Science on the AWS Cloud | 3 Courses Specialization](https://www.coursera.org/account/accomplishments/specialization/ZH9SX5STF5FW)
 
-DeepLearning.AI, AWS | [Practical Data Science on the AWS Cloud | 3 Courses Specialization](https://www.coursera.org/account/accomplishments/specialization/ZH9SX5STF5FW) | Coursera | 2021
+Datacamp | 2021 \
+[Data Scientist with Python | 25 Courses](https://www.datacamp.com/statement-of-accomplishment/track/6fbb7f0e9e5f7bc68194ed4f49a37e6ff0d4b8dc)
 
-Datacamp | [Data Scientist with Python | 25 Courses](https://www.datacamp.com/statement-of-accomplishment/track/6fbb7f0e9e5f7bc68194ed4f49a37e6ff0d4b8dc) | 2021
+Datacamp | 2021 \
+[Machine Learning Fundamentals with Python | 4 Courses](https://www.datacamp.com/statement-of-accomplishment/track/2b1fceb9871f361ce404935426d935a4d4d48225)
 
-Datacamp | [Machine Learning Fundamentals with Python | 4 Courses](https://www.datacamp.com/statement-of-accomplishment/track/2b1fceb9871f361ce404935426d935a4d4d48225) | 2021
+DeepLearning.AI | Coursera | 2020 \
+[Deep Learning | 5 Courses Specialization](https://www.coursera.org/account/accomplishments/specialization/7598QNCVJ9UJ)
 
-DeepLearning.AI | [Deep Learning | 5 Courses Specialization](https://www.coursera.org/account/accomplishments/specialization/7598QNCVJ9UJ) | Coursera | 2020
+DeepLearning.AI | Coursera | 2020 \
+[TensorFlow Developer | 4 Courses Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/6Z2GJRDKFGKT)
 
-DeepLearning.AI | [TensorFlow Developer | 4 Courses Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/6Z2GJRDKFGKT) | Coursera | 2020
-
-Google Cloud | [Data Engineering, Big Data, and Machine Learning on GCP | 5 Courses Specialization](https://www.coursera.org/account/accomplishments/specialization/3BSQDJAWHYWP) | Coursera | 2020
-
-#### Courses
-
-[Introduction to Cloud Computing](https://www.coursera.org/account/accomplishments/verify/S9K2UK6SSFKZ) | Coursera | 2021
-
-[Introduction to Containers w/ Docker, Kubernetes & OpenShift](https://www.coursera.org/account/accomplishments/verify/HNPTJQQ7D5ZF) | Coursera | 2021
-
-[Python Project for AI & Application Development](https://www.coursera.org/account/accomplishments/verify/HVUZ94CTFST7) | Coursera | 2021
-
-[Python Project for Data Engineering](https://www.coursera.org/account/accomplishments/verify/2KAXT5EJLRYV) | Coursera | 2021
-
-[AI For Everyone](https://www.coursera.org/account/accomplishments/verify/GV54LFQP8DSG) | Coursera | 2020
-
-[Digital Transformation](https://www.coursera.org/account/accomplishments/verify/GKY9UXJZQ26D) | Coursera | 2020
-
-[Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/verify/EW4ES2Q97KVB) | Coursera | 2020
-
-[SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/7G6QQUMZFRY7) | Coursera | 2020
-
-[Learning How to Learn](https://www.coursera.org/account/accomplishments/verify/DSVUBU4DRCNX) | Coursera | 2020
+Google Cloud | Coursera | 2020 \
+[Data Engineering, Big Data, and Machine Learning on GCP | 5 Courses Specialization](https://www.coursera.org/account/accomplishments/specialization/3BSQDJAWHYWP)
 
 \
 
-### Volunteer
+#### Courses
+\
+IBM | Coursera | 2021 \
+[Introduction to Cloud Computing](https://www.coursera.org/account/accomplishments/verify/S9K2UK6SSFKZ)
+
+IBM | Coursera | 2021 \
+[Introduction to Containers w/ Docker, Kubernetes & OpenShift](https://www.coursera.org/account/accomplishments/verify/HNPTJQQ7D5ZF)
+
+IBM | Coursera | 2021 \
+[Python Project for AI & Application Development](https://www.coursera.org/account/accomplishments/verify/HVUZ94CTFST7)
+
+IBM | Coursera | 2021 \
+[Python Project for Data Engineering](https://www.coursera.org/account/accomplishments/verify/2KAXT5EJLRYV)
+
+IBM | 2021 \
+[Enterprise Design Thinking Practitioner](https://www.credly.com/badges/10711fb6-08b7-4cd3-83b8-b50a9107ca67/public_url)
+
+DeepLearning.AI | Coursera | 2020 \
+[AI For Everyone](https://www.coursera.org/account/accomplishments/verify/GV54LFQP8DSG)
+
+University of Virginia, Boston Consulting Group | Coursera | 2020 \
+[Digital Transformation](https://www.coursera.org/account/accomplishments/verify/GKY9UXJZQ26D)
+
+Google | Coursera | 2020 \
+[Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/verify/EW4ES2Q97KVB)
+
+UC Davis | Coursera | 2020 \
+[SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/7G6QQUMZFRY7)
+
+Deep Teaching Solutions | Coursera | 2020 \
+[Learning How to Learn](https://www.coursera.org/account/accomplishments/verify/DSVUBU4DRCNX)
+
+\
+
+## Volunteer
 
 DeepLearning.AI (Coursera) | Mentor & Alpha Tester | 2021
 
 \
 
-### Contact
+## Contact
 
 luisalejandro.vallejo[at]gmail.com
 
