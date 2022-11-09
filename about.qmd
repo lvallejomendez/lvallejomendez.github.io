@@ -55,25 +55,25 @@ Higher Technical Certificate in Building and Civil Works | 2003 - 2005
 
 #### Specializations
 
-[IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/NF5R8W5J9MDE) | Coursera | 2022
+IBM | [IBM Data Science | 10 Courses Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/NF5R8W5J9MDE) | Coursera | 2022
 
-[From Data to Insights with Google Cloud](https://www.coursera.org/account/accomplishments/specialization/GPMLSXD4W447) | Coursera | 2022
+Google Cloud | [From Data to Insights with Google Cloud | 3 Courses Specialization](https://www.coursera.org/account/accomplishments/specialization/GPMLSXD4W447) | Coursera | 2022
 
-[Data Analysis and Visualization Specialization](https://www.coursera.org/account/accomplishments/specialization/RL4JE3Q38T8G) | Coursera | 2022
+IBM | [Data Analysis & Visualization Foundations | 4 Courses Specialization](https://www.coursera.org/account/accomplishments/specialization/RL4JE3Q38T8G) | Coursera | 2022
 
-[IBM Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst) | Coursera | 2022
+IBM | [IBM Data Analyst | 9 Courses Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst) | Coursera | 2022
 
-[Practical Data Science on the AWS Cloud](https://www.coursera.org/account/accomplishments/specialization/ZH9SX5STF5FW) | Coursera | 2021
+DeepLearning.AI, AWS | [Practical Data Science on the AWS Cloud | 3 Courses Specialization](https://www.coursera.org/account/accomplishments/specialization/ZH9SX5STF5FW) | Coursera | 2021
 
-[Data Scientist with Python](https://www.datacamp.com/statement-of-accomplishment/track/6fbb7f0e9e5f7bc68194ed4f49a37e6ff0d4b8dc) | DataCamp | 2021
+Datacamp | [Data Scientist with Python | 25 Courses](https://www.datacamp.com/statement-of-accomplishment/track/6fbb7f0e9e5f7bc68194ed4f49a37e6ff0d4b8dc) | 2021
 
-[Machine Learning Fundamentals with Python](https://www.datacamp.com/statement-of-accomplishment/track/2b1fceb9871f361ce404935426d935a4d4d48225) | DataCamp | 2021
+Datacamp | [Machine Learning Fundamentals with Python | 4 Courses](https://www.datacamp.com/statement-of-accomplishment/track/2b1fceb9871f361ce404935426d935a4d4d48225) | 2021
 
-[Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/7598QNCVJ9UJ) | Coursera | 2020
+DeepLearning.AI | [Deep Learning | 5 Courses Specialization](https://www.coursera.org/account/accomplishments/specialization/7598QNCVJ9UJ) | Coursera | 2020
 
-[TensorFlow Developer Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/6Z2GJRDKFGKT) | Coursera | 2020
+DeepLearning.AI | [TensorFlow Developer | 4 Courses Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/6Z2GJRDKFGKT) | Coursera | 2020
 
-[Data Engineering, Big Data, and Machine Learning on GCP](https://www.coursera.org/account/accomplishments/specialization/3BSQDJAWHYWP) | Coursera | 2020
+Google Cloud | [Data Engineering, Big Data, and Machine Learning on GCP | 5 Courses Specialization](https://www.coursera.org/account/accomplishments/specialization/3BSQDJAWHYWP) | Coursera | 2020
 
 #### Courses
 
